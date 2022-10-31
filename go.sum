@@ -1,0 +1,4 @@
+go.mrchanchal.com/slicesort v0.0.0-20221031214539-2dfbb2e37329 h1:O1w8RJWZjMCHidb3vp5bTzPqklHE6GEJqbnRpkQ2lIs=
+go.mrchanchal.com/slicesort v0.0.0-20221031214539-2dfbb2e37329/go.mod h1:KcaDNRMN37ZPDRGKkWV5kiONZd1R1Y4WZ890+bEHIHs=
+go.mrchanchal.com/treewriter v0.0.0-20221031232647-40c342ac6bf0 h1:XgWNwWRgtTPFN9wIflJZgPDyChZoJw5hsP6wT0GitEY=
+go.mrchanchal.com/treewriter v0.0.0-20221031232647-40c342ac6bf0/go.mod h1:dX+IUGvjBjOZkJ4UvYZXtNmQyOy0eAXN8uRpEgLZLpc=
